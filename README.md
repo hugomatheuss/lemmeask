@@ -11,8 +11,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/rocketseat-education/nlw-06-reactjs
-$ cd nlw-06-reactjs
+$ git clone https://github.com/hugomatheuss/lemmeask.git
+$ cd lemmeask
 ```
 
 Para iniciá-lo, siga os passos abaixo:
@@ -30,9 +30,6 @@ Lembrando que será necessário criar uma conta no [Firebase](https://firebase.g
 ## 💻 Projeto
 
 Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática. 
-
-Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada dos dias 20 a 27 de Junho de 2021.
-
 
 ## 🔖 Layout
 
