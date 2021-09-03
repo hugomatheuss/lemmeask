@@ -1,3 +1,23 @@
+@media (max-width: 765px) {
+  div #page-auth {
+    flex-direction: column;
+
+    aside {
+      img {
+        max-width: 220px;
+      }
+    }
+
+    main {
+      margin-top: 30px;
+    }
+
+    .main-content form button {
+      margin-bottom: 10px;
+    }
+  }
+} 
+
 * {
   margin: 0;
   padding: 0;
