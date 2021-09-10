@@ -1,5 +1,7 @@
 @media (max-width: 765px) {
-  
+  .room-code span {
+    display: none;
+  }
 }
 
 .room-code {
@@ -22,7 +24,6 @@
   }
 
   span {
-    display: block;
     align-self: center;
     flex: 1;
     padding: 0 16px 0 12px;

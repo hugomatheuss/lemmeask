@@ -18,6 +18,15 @@
   }
 
   div #page-room {
+    header .content {
+      display: flex;
+      flex-direction: column;
+
+      > div {
+        display: flex;
+        justify-content: space-around;
+      }
+    }
     main {
       form .form-footer {
         display: flex;
