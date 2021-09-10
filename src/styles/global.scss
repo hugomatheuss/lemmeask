@@ -16,6 +16,15 @@
       margin-bottom: 10px;
     }
   }
+
+  div #page-room {
+    main {
+      form .form-footer {
+        display: flex;
+        justify-content: space-around;
+      }
+    }
+  }
 } 
 
 * {
